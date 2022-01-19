@@ -1,2 +1,1 @@
-# JsSimpleProjects
-Simple small projects in JavaScript
+https://skadiz.github.io/JsSimpleProjects/
